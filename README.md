@@ -23,12 +23,7 @@ Nexora es una plataforma dedicada a la innovación, la tecnología y la comunida
 
 ## 🌍 Cómo ver el sitio
 
-1. Clona o sube estos archivos a un repositorio (por ejemplo: `nexora-web`)
-2. Ve a **Settings > Pages**
-3. En "Source", selecciona la rama `main` y carpeta `/ (root)`
-4. ¡Tu sitio estará disponible públicamente en minutos!
-
-Ejemplo: `https://tuusuario.github.io/nexora-web`
+ `https://Nietor4.github.io/nexora-web`
 
 ---
 
